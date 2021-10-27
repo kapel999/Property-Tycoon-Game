@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+
+<!--GAME TILES-->
+<!--DO NOT EDIT: COLOUR OR TYPE-->
+
+<config>
+    <tile>
+        <type>go</type>
+    </tile>
+    <tile>
+        <name>Crapper Street</name>
+        <type>property</type>
+        <cost>60</cost>
+        <rent>2</rent>
+        <one-house>10</one-house>
+        <two-house>30</two-house>
+        <three-house>90</three-house>
+        <four-house>160</four-house>
+        <hotel>250</hotel>
+        <house-cost>50</house-cost>
+        <hotel-cost>50</hotel-cost>
+        <colour>brown</colour>
+    </tile>
+    <tile>
+        <type>potluck</type>
+    </tile>
+    <tile>
+        <name>Gangster's Paradise</name>
+        <type>property</type>
+        <cost>60</cost>
+        <rent>4</rent>
+        <one-house>20</one-house>
+        <two-house>60</two-house>
+        <three-house>180</three-house>
+        <four-house>320</four-house>
+        <hotel>450</hotel>
+        <house-cost>50</house-cost>
+        <hotel-cost>50</hotel-cost>
+        <colour>brown</colour>
+    </tile>
+    <tile>
+        <type>tax</type>
+        <name>Tax</name>
+        <amount>200</amount>
+    </tile>
+    <tile>
+        <type>station</type>
+        <name>Brighton Station</name>
+        <cost>200</cost>
+    </tile>
+    <tile>
+        <name>Weeping Angel</name>
+        <type>property</type>
+        <cost>100</cost>
+        <rent>6</rent>
+        <one-house>30</one-house>
+        <two-house>90</two-house>
+        <three-house>270</three-house>
+        <four-house>400</four-house>
+        <hotel>550</hotel>
+        <house-cost>50</house-cost>
+        <hotel-cost>50</hotel-cost>
+        <colour>sky</colour>
+    </tile>
+    <tile>
+        <type>opportunityknocks</type>
+    </tile>
+    <tile>
+        <name>Potts Avenue</name>
+        <type>property</type>
+        <cost>100</cost>
+        <rent>6</rent>
+        <one-house>30</one-house>
+        <two-house>90</two-house>
+        <three-house>270</three-house>
+        <four-house>400</four-house>
+        <hotel>550</hotel>
+        <house-cost>50</house-cost>
+        <hotel-cost>50</hotel-cost>
+        <colour>sky</colour>
+    </tile>
+    <tile>
+        <name>Nardole Drive</name>
+        <type>property</type>
+        <cost>120</cost>
+        <rent>8</rent>
+        <one-house>40</one-house>
+        <two-house>100</two-house>
+        <three-house>300</three-house>
+        <four-house>450</four-house>
+        <hotel>600</hotel>
+        <house-cost>50</house-cost>
+        <hotel-cost>50</hotel-cost>
+        <colour>sky</colour>
+    </tile>
+    <tile>
+        <type>jail</type>
+    </tile>
+    <tile>
+        <name>Skywalker Drive</name>
+        <type>property</type>
+        <cost>140</cost>
+        <rent>10</rent>
+        <one-house>50</one-house>
+        <two-house>150</two-house>
+        <three-house>450</three-house>
+        <four-house>625</four-house>
+        <hotel>750</hotel>
+        <house-cost>100</house-cost>
+        <hotel-cost>100</hotel-cost>
+        <colour>purple</colour>
+    </tile>
+    <tile>
+        <name>Tesla Power Co</name>
+        <type>utility</type>
+        <cost>150</cost>
+    </tile>
+    <tile>
+        <name>Wookie Hole</name>
+        <type>property</type>
+        <cost>140</cost>
+        <rent>10</rent>
+        <one-house>50</one-house>
+        <two-house>150</two-house>
+        <three-house>450</three-house>
+        <four-house>625</four-house>
+        <hotel>750</hotel>
+        <house-cost>100</house-cost>
+        <hotel-cost>100</hotel-cost>
+        <colour>purple</colour>
+    </tile>
+    <tile>
+        <name>Rey Lane</name>
+        <type>property</type>
+        <cost>160</cost>
+        <rent>12</rent>
+        <one-house>60</one-house>
+        <two-house>180</two-house>
+        <three-house>500</three-house>
+        <four-house>700</four-house>
+        <hotel>900</hotel>
+        <house-cost>100</house-cost>
+        <hotel-cost>100</hotel-cost>
+        <colour>purple</colour>
+    </tile>
+    <tile>
+        <name>Hove Station</name>
+        <type>station</type>
+        <cost>200</cost>
+    </tile>
+    <tile>
+        <name>Cooper Drive</name>
+        <type>property</type>
+        <cost>180</cost>
+        <rent>14</rent>
+        <one-house>70</one-house>
+        <two-house>200</two-house>
+        <three-house>550</three-house>
+        <four-house>750</four-house>
+        <hotel>950</hotel>
+        <house-cost>100</house-cost>
+        <hotel-cost>100</hotel-cost>
+        <colour>orange</colour>
+    </tile>
+    <tile>
+        <type>potluck</type>
+    </tile>
+    <tile>
+        <name>Wolowitz Street</name>
+        <type>property</type>
+        <cost>180</cost>
+        <rent>14</rent>
+        <one-house>70</one-house>
+        <two-house>200</two-house>
+        <three-house>550</three-house>
+        <four-house>750</four-house>
+        <hotel>950</hotel>
+        <house-cost>100</house-cost>
+        <hotel-cost>100</hotel-cost>
+        <colour>orange</colour>
+    </tile>
+    <tile>
+        <name>Penny Lane</name>
+        <type>property</type>
+        <cost>200</cost>
+        <rent>16</rent>
+        <one-house>80</one-house>
+        <two-house>220</two-house>
+        <three-house>600</three-house>
+        <four-house>800</four-house>
+        <hotel>1000</hotel>
+        <house-cost>100</house-cost>
+        <hotel-cost>100</hotel-cost>
+        <colour>orange</colour>
+    </tile>
+    <tile>
+        <type>parking</type>
+    </tile>
+    <tile>
+        <name>Yue Fei Square</name>
+        <type>property</type>
+        <cost>220</cost>
+        <rent>18</rent>
+        <one-house>90</one-house>
+        <two-house>250</two-house>
+        <three-house>700</three-house>
+        <four-house>875</four-house>
+        <hotel>1050</hotel>
+        <house-cost>150</house-cost>
+        <hotel-cost>150</hotel-cost>
+        <colour>red</colour>
+    </tile>
+    <tile>
+        <type>opportunityknocks</type>
+    </tile>
+    <tile>
+        <name>Mulan Rouge</name>
+        <type>property</type>
+        <cost>220</cost>
+        <rent>18</rent>
+        <one-house>90</one-house>
+        <two-house>250</two-house>
+        <three-house>700</three-house>
+        <four-house>875</four-house>
+        <hotel>1050</hotel>
+        <house-cost>150</house-cost>
+        <hotel-cost>150</hotel-cost>
+        <colour>red</colour>
+    </tile>
+    <tile>
+        <name>Han Xin Gardens</name>
+        <type>property</type>
+        <cost>240</cost>
+        <rent>20</rent>
+        <one-house>100</one-house>
+        <two-house>300</two-house>
+        <three-house>750</three-house>
+        <four-house>925</four-house>
+        <hotel>1100</hotel>
+        <house-cost>150</house-cost>
+        <hotel-cost>150</hotel-cost>
+        <colour>red</colour>
+    </tile>
+    <tile>
+        <name>Falmer Station</name>
+        <type>station</type>
+        <cost>200</cost>
+    </tile>
+    <tile>
+        <name>Kirk Close</name>
+        <type>property</type>
+        <cost>260</cost>
+        <rent>22</rent>
+        <one-house>110</one-house>
+        <two-house>330</two-house>
+        <three-house>800</three-house>
+        <four-house>975</four-house>
+        <hotel>1150</hotel>
+        <house-cost>150</house-cost>
+        <hotel-cost>150</hotel-cost>
+        <colour>yellow</colour>
+    </tile>
+    <tile>
+        <name>Picard Avenue</name>
+        <type>property</type>
+        <cost>260</cost>
+        <rent>22</rent>
+        <one-house>110</one-house>
+        <two-house>330</two-house>
+        <three-house>800</three-house>
+        <four-house>975</four-house>
+        <hotel>1150</hotel>
+        <house-cost>150</house-cost>
+        <hotel-cost>150</hotel-cost>
+        <colour>yellow</colour>
+    </tile>
+    <tile>
+        <name>Edison Water</name>
+        <type>utility</type>
+        <cost>150</cost>
+    </tile>
+    <tile>
+        <name>Crusher Creek</name>
+        <type>property</type>
+        <cost>280</cost>
+        <rent>22</rent>
+        <one-house>120</one-house>
+        <two-house>360</two-house>
+        <three-house>850</three-house>
+        <four-house>1025</four-house>
+        <hotel>1200</hotel>
+        <house-cost>150</house-cost>
+        <hotel-cost>150</hotel-cost>
+        <colour>yellow</colour>
+    </tile>
+    <tile>
+        <type>gotojail</type>
+    </tile>
+    <tile>
+        <name>Sirat Mews</name>
+        <type>property</type>
+        <cost>300</cost>
+        <rent>26</rent>
+        <one-house>130</one-house>
+        <two-house>390</two-house>
+        <three-house>900</three-house>
+        <four-house>1100</four-house>
+        <hotel>1275</hotel>
+        <house-cost>200</house-cost>
+        <hotel-cost>200</hotel-cost>
+        <colour>green</colour>
+    </tile>
+    <tile>
+        <name>Ghengis Crescent</name>
+        <type>property</type>
+        <cost>300</cost>
+        <rent>26</rent>
+        <one-house>130</one-house>
+        <two-house>390</two-house>
+        <three-house>900</three-house>
+        <four-house>1100</four-house>
+        <hotel>1275</hotel>
+        <house-cost>200</house-cost>
+        <hotel-cost>200</hotel-cost>
+        <colour>green</colour>
+    </tile>
+    <tile>
+        <type>potluck</type>
+    </tile>
+    <tile>
+        <name>Ibis Close</name>
+        <type>property</type>
+        <cost>320</cost>
+        <rent>28</rent>
+        <one-house>150</one-house>
+        <two-house>450</two-house>
+        <three-house>1000</three-house>
+        <four-house>1200</four-house>
+        <hotel>1400</hotel>
+        <house-cost>200</house-cost>
+        <hotel-cost>200</hotel-cost>
+        <colour>green</colour>
+    </tile>
+    <tile>
+        <name>Lewes Station</name>
+        <type>station</type>
+        <cost>200</cost>
+    </tile>
+
+    <tile>
+        <type>opportunityknocks</type>
+    </tile>
+    <tile>
+        <name>Hawking Way</name>
+        <type>property</type>
+        <cost>350</cost>
+        <rent>35</rent>
+        <one-house>175</one-house>
+        <two-house>500</two-house>
+        <three-house>1100</three-house>
+        <four-house>1300</four-house>
+        <hotel>1500</hotel>
+        <house-cost>200</house-cost>
+        <hotel-cost>200</hotel-cost>
+        <colour>blue</colour>
+    </tile>
+    <tile>
+        <type>tax</type>
+        <name>Super Tax</name>
+        <amount>100</amount>
+    </tile>
+    <tile>
+        <name>Turing Heights</name>
+        <type>property</type>
+        <cost>400</cost>
+        <rent>50</rent>
+        <one-house>200</one-house>
+        <two-house>600</two-house>
+        <three-house>1400</three-house>
+        <four-house>1700</four-house>
+        <hotel>2000</hotel>
+        <house-cost>200</house-cost>
+        <hotel-cost>200</hotel-cost>
+        <colour>blue</colour>
+    </tile>
+
+    <!--POT LUCK CARDS-->
+    <potluckcard>
+        <action>You inherit</action>
+        <value>100</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>You have won 2nd prize in a beauty contest, collect</action>
+        <value>20</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Student loan refund. Collect</action>
+        <value>20</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Go back to</action>
+        <value>1</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Bank error in your favour. Collect</action>
+        <value>200</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Pay bill for text books of</action>
+        <value>100</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Mega late night taxi bill pay</action>
+        <value>50</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Advance to Go</action>
+    </potluckcard>
+
+    <potluckcard>
+        <action>From sale of Bitcoin you get</action>
+        <value>50</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Take Opportunity Knocks card or pay a fine of</action>
+        <value>10</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Pay insurance fee of</action>
+        <value>50</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Savings bond matures, collect</action>
+        <value>50</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Go to jail. Do not pass Go</action>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Received interest on shares of</action>
+        <value>25</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>It's your birthday. Each player pays you</action>
+        <value>10</value>
+    </potluckcard>
+
+    <potluckcard>
+        <action>Get out of jail free</action>
+    </potluckcard>
+
+    <!--COMMUNITY CHEST CARDS-->
+    <opportunityknockscard>
+        <action>Bank pays you dividend of</action>
+        <value>50</value>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>You have won a lip sync battle. Collect</action>
+        <value>100</value>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Advance to</action>
+        <value>39</value>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Advance to</action>
+        <value>24</value>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Fined for speeding for</action>
+        <value>15</value>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Pay university fees of</action>
+        <value>150</value>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Loan matures, collect</action>
+        <value>150</value>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Advance to Go</action>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>You are assessed for repairs, $40/house, $115/hotel</action>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>You are assessed for repairs, $25/house, $100/hotel</action>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Go back 3 spaces</action>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Go to jail. Do not pass Go</action>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Drunk in charge of a skateboard. Fine</action>
+        <value>20</value>
+    </opportunityknockscard>
+
+    <opportunityknockscard>
+        <action>Get out of jail free</action>
+    </opportunityknockscard>
+
+</config>
